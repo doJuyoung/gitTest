@@ -1,6 +1,6 @@
 let index = 0
-const words = [ '2022.03.29'
-               '리눅스 git download test중'
+const words = [ '2022.03.29',
+               '리눅스 git download test중',
                '출력 성공 !'
                ]
 setInterval(
